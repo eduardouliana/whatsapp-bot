@@ -8,3 +8,6 @@ Bot para envio de mensagens pelo WhatsApp
 
 ## Modo de uso:
 * No arquivo `lista_contatos.xlsx`, coluna `Contato` insira o nome ou número do contato. Na coluna `Mensagem` insira a mensagem que deve ser enviada
+
+## Certificado do curso
+![](Certificado.jpg)
